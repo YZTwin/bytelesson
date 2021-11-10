@@ -307,5 +307,7 @@ li:not(:last-of-type) {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 107.9px 0 54px 0;
+    max-width: 1210px;
+    height: 133px;
+    margin: 76.9px auto 27px auto;
 }
